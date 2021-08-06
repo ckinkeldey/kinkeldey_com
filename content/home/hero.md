@@ -18,11 +18,11 @@ hero_media = "user-2.jpg"
 
   # Background color.
   color = "#fff"
-  
+
   # Background gradient.
   # gradient_start = "#4bb4e3"
   # gradient_end = "#000"
-  
+
   # Background image.
   # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -36,12 +36,12 @@ hero_media = "user-2.jpg"
 [btn]
   url = "/authors/admin"
   label = "Know more"
-  
+
 [btn_alt]
   url = "#contact"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Christoph Kinkeldey** and I'm a **Researcher, Lecturer, and Developer** specializing in **Visualization**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+XXX
