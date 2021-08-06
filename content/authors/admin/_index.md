@@ -22,15 +22,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: bio
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Uncertainty Visualization
 
 education:
   courses:

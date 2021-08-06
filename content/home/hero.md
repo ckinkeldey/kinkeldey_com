@@ -20,8 +20,8 @@ hero_media = "user-2.jpg"
   color = "#fff"
 
   # Background gradient.
-  # gradient_start = "#4bb4e3"
-  # gradient_end = "#000"
+  gradient_start = "#fff"
+  gradient_end = "#ccc"
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
