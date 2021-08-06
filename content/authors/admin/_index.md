@@ -1,7 +1,7 @@
 ---
 # Display name
-name: Michael Vahn
-avatar_image: "user-full.png"
+name: "Dr.-Ing. Christoph Kinkeldey"
+avatar_image: "user-full.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,15 +14,15 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher, lecturer, and developer in visualization
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: HafenCity University Hamburg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -51,16 +51,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hello@kinkeldey.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/geovisual
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=eP9T1cYAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ckinkeldey
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,7 +69,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -77,8 +77,21 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am passionate about research, teaching, and software development in the field of geovisualization and visual analytics with over 15 years of professional experience in research and industry. Holding a PhD on the topic of uncertainty visualization in geoinformatics I am leveraging knowledge and principles from cartography for interactive visual data analysis and interpretable machine learning. My main research interest is how visual communication of uncertainty can support people to gain a better understanding of complex information.
 
-![reviews](../../img/certifacates.jpg)
+<!--![reviews](../../img/certifacates.jpg)-->
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+#### Research
+* Data visualization
+* Geovisualization and Cartography
+* Uncertainty visualization
+* Uncertainty-aware Visual Analytics
+
+#### Teaching
+* Data visualization
+* Geodata analysis and Geographic Information Systems (GIS)
+* Software development
+
+#### Development
+* Frontend (Javascript, D3.js)
+* Backend (Python)
