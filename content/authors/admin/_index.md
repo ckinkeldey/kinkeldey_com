@@ -1,7 +1,7 @@
 ---
 # Display name
 name: "Dr.-Ing. Christoph Kinkeldey"
-avatar_image: "user-full.jpg"
+avatar_image: ""
 # Username (this should match the folder name)
 authors:
 - admin

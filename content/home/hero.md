@@ -20,8 +20,8 @@ hero_media = "user-2.jpg"
   color = "#fff"
 
   # Background gradient.
-  gradient_start = "#fff"
-  gradient_end = "#ccc"
+  # gradient_start = "#fff"
+  # gradient_end = "#ccc"
 
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -42,6 +42,6 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Christoph Kinkeldey** and I'm a **Researcher, Lecturer, and Developer** specializing in **Visualization**
+## Hello! My name is **Christoph Kinkeldey** <br> and I'm a **researcher, lecturer, and software developer** specializing in **visualization**
 
-XXX
+Contact me for freelance work.
