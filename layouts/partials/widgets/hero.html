@@ -44,7 +44,7 @@
     </p>
     {{ end }}
     <!-- icons added by ck 210808 -->
-    <ul class="network-icon bg-white mx-2 py-2 text-left" aria-hidden="true">
+    <ul class="network-icon bg-white mx-2 py-2 text-left" aria-hidden="true" style="margin-left:0rem!important;">
       {{ range $page.Params.social }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
@@ -59,14 +59,14 @@
       {{ else if in (slice "http" "https") $scheme }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
-      <li class="mx-3">
+      <li class="mx-3" style="margin-left:0rem!important;">
         <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
           <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
         </a>
       </li>
       {{ end }}
     </ul>
-  
+
 
   {{/* Hero image */}}
   {{ if $page.Params.hero_media }}
