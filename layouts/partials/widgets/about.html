@@ -18,7 +18,7 @@
 <!-- About widget -->
 <div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person"
   itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
-  <div class="col-lg-5">
+  <!-- <div class="col-lg-5">
     <div id="profile">
       {{ if site.Params.gravatar }}
       <img class="portrait img-fluid" src="https://s.gravatar.com/avatar/{{ md5 $person.email }}?s=200')"
@@ -27,8 +27,8 @@
       {{ $avatar_image := .page.Params.avatar_image }}
       <img class="img-fluid" src="{{ printf "img/%s" $avatar_image | relURL }}" itemprop="image" alt="Avatar">
       {{ end }}
-    </div>
-    <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">
+    </div> -->
+    <!-- <ul class="network-icon bg-white mx-2 py-2 text-center" aria-hidden="true">
       {{ range $person.social }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
@@ -50,7 +50,7 @@
       </li>
       {{ end }}
     </ul>
-  </div>
+  </div> -->
   <div class="col-lg-7" itemprop="description">
 
     <div class="portrait-title">

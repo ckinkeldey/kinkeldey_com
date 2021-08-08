@@ -34,6 +34,22 @@ hero_media = "user-2.jpg"
   # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
   #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
   #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  [[social]]
+  icon="envelope"
+  icon_pack="fas"
+  link='mailto:hello@kinkeldey.de'
+  [[social]]
+  icon="twitter"
+  icon_pack="fab"
+  link="https://twitter.com/geovisual"
+  [[social]]
+  icon="google-scholar"
+  icon_pack="ai"
+  link="https://scholar.google.co.uk/citations?user=eP9T1cYAAAAJ"
+  [[social]]
+  icon="github"
+  icon_pack="fab"
+  link="https://github.com/ckinkeldey"
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
@@ -49,6 +65,6 @@ hero_media = "user-2.jpg"
 
 +++
 ## Hello! My name is **Christoph Kinkeldey**.
-I am a **researcher, lecturer, and software developer** specializing in **visualization**.
+I am a **researcher, lecturer, and software developer** specializing in **visual analytics** and **visualization**.
 
 Contact me for freelance work.
