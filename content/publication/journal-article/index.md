@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "How to assess visual communication of uncertainty? A systematic review of geospatial uncertainty visualisation user studies"
 authors:
-- admin
-- Robert Ford
+- Christoph Kinkeldey
+- Alan MacEachren
+- Jochen Schiewe
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -22,10 +23,10 @@ publication_short: ""
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
-- Source Themes
+- uncertaintyvis
 featured: false
 
 # links:
@@ -41,7 +42,7 @@ featured: false
 # url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
