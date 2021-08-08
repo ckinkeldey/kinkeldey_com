@@ -30,18 +30,25 @@ hero_media = "user-2.jpg"
   # Text color (true=light or false=dark).
   text_color_light = false
 
+  # Social/academia Networking
+  # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+  #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+  #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "/authors/admin"
-  label = "Know more"
 
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+# [btn]
+#   url = "/authors/admin"
+#   label = "Know more"
+
+# [btn_alt]
+#   url = "#contact"
+#   label = "Contact me"
 
 +++
-## Hello! My name is **Christoph Kinkeldey** <br> and I'm a **researcher, lecturer, and software developer** specializing in **visualization**
+## Hello! My name is **Christoph Kinkeldey**.
+I am a **researcher, lecturer, and software developer** specializing in **visualization**.
 
 Contact me for freelance work.

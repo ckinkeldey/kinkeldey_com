@@ -9,4 +9,10 @@ weight = 20  # Order that this section will appear in.
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 avatar_image= ""
+[advanced]
+ # Custom CSS.
+ css_style = ""
+
+ # CSS class.
+ css_class = ""
 +++
