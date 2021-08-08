@@ -60,8 +60,8 @@
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
       {{ end }}
       <li class="mx-3" style="margin-left:0rem!important;">
-        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+        <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} style="">
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-lg" style=""></i>
         </a>
       </li>
       {{ end }}

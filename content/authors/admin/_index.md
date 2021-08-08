@@ -1,7 +1,7 @@
 ---
 # Display name
-name: "Dr.-Ing. Christoph Kinkeldey"
-avatar_image: ""
+#name: ""
+#avatar_image: ""
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,12 +14,12 @@ btn:
 superuser: true
 
 # Role/position
-role: Researcher, lecturer, and developer in visualization
+#role: Researcher, lecturer, and developer in visualization
 
 # Organizations/Affiliations
-organizations:
-- name: HafenCity University Hamburg
-  url: ""
+#organizations:
+#- name: HafenCity University Hamburg
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: bio
