@@ -14,7 +14,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Courses"
+  name = "Teaching"
   url = "courses/"
   weight = 40
 
@@ -28,10 +28,10 @@
   url = "#publications"
   weight = 30
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+# [[main]]
+#   name = "Contact"
+#   url = "#contact"
+#   weight = 60
 
 #[[main]]
 #  name = "dropdown"

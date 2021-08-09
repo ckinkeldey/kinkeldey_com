@@ -32,15 +32,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Dr.-Ing. (PhD) in Geovisualization
+    institution: HafenCity University Hamburg, Germany
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Diplom-Ingenieur in Civil Engineering
+    institution: Leibniz University Hanover, Germany
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -74,7 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am passionate about research, teaching, and software development in the field of geovisualization and visual analytics with over 15 years of professional experience in research and industry. Holding a PhD on the topic of uncertainty visualization in geoinformatics I am leveraging knowledge and principles from cartography for interactive visual data analysis and interpretable machine learning. My main research interest is how visual communication of uncertainty can support people to gain a better understanding of complex information.
 
 <!--![reviews](../../img/certifacates.jpg)-->

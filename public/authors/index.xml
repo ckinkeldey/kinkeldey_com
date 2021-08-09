@@ -1,36 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academia</title>
-    <link>https://examplesite.org/authors/</link>
-    <description>Recent content in Authors on Academia</description>
+    <title>Authors on Dr.-Ing. Christoph Kinkeldey</title>
+    <link>https://kinkeldey.com/authors/</link>
+    <description>Recent content in Authors on Dr.-Ing. Christoph Kinkeldey</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://examplesite.org/authors/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://kinkeldey.com/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>https://examplesite.org/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Alan MacEachren</title>
+      <link>https://kinkeldey.com/authors/alan-maceachren/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../../img/certifacates.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
-&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.&lt;/p&gt;
-</description>
+      <guid>https://kinkeldey.com/authors/alan-maceachren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Kinkeldey</title>
+      <link>https://kinkeldey.com/authors/christoph-kinkeldey/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/authors/christoph-kinkeldey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jochen Schiewe</title>
+      <link>https://kinkeldey.com/authors/jochen-schiewe/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/authors/jochen-schiewe/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-      <link>https://examplesite.org/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <link>https://kinkeldey.com/authors/robert-ford/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/authors/robert-ford/</guid>
+      <guid>https://kinkeldey.com/authors/robert-ford/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kinkeldey.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/authors/admin/</guid>
+      <description>&lt;p&gt;I am passionate about research, teaching, and software development in the field of geovisualization and visual analytics with over 15 years of professional experience in research and industry. Holding a PhD on the topic of uncertainty visualization in geoinformatics I am leveraging knowledge and principles from cartography for interactive visual data analysis and interpretable machine learning. My main research interest is how visual communication of uncertainty can support people to gain a better understanding of complex information.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;research&#34;&gt;Research&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Geovisualization and Cartography&lt;/li&gt;
+&lt;li&gt;Uncertainty visualization&lt;/li&gt;
+&lt;li&gt;Uncertainty-aware Visual Analytics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;teaching&#34;&gt;Teaching&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Data visualization&lt;/li&gt;
+&lt;li&gt;Geodata analysis and Geographic Information Systems (GIS)&lt;/li&gt;
+&lt;li&gt;Software development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;development&#34;&gt;Development&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Frontend (Javascript, D3.js)&lt;/li&gt;
+&lt;li&gt;Backend (Python)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

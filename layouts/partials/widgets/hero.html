@@ -61,7 +61,7 @@
       {{ end }}
       <li class="mx-3" style="margin-left:0rem!important;">
         <a itemprop="sameAs" href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} style="width=50px;height=50px;">
-          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-2x" style=""></i>
+          <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }} fa-lg" style=""></i>
         </a>
       </li>
       {{ end }}
@@ -76,3 +76,38 @@
   </div>
 </div>
 {{ end }}
+
+{{ if $page.Params.display_education }}
+<div class="row">
+
+  {{ with $page.Params.education }}
+  <div class="col-md-7">
+    <h3>{{ i18n "education" | markdownify }}</h3>
+    <ul class="ul-edu fa-ul">
+      {{ range .courses }}
+      <li>
+        <i class="fa-li fas fa-graduation-cap"></i>
+        <div class="description">
+          <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+          <p class="institution">{{ .institution }}</p>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+  {{ with $page.Params.interests }}
+  <div class="col-md-5">
+    <h3>{{ i18n "interests" | markdownify }}</h3>
+    <ul class="ul-interests">
+      {{ range . }}
+      <li>{{ . | markdownify | emojify }}</li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+</div>
+{{ end }}
+</div>
