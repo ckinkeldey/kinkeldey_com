@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Selected Projects"
-subtitle = "Uncertainty visualization, visual analytics, machine learning"
+subtitle = "(Find a complete list in my CV)"
 
 [content]
   # Page type to display. E.g. project.

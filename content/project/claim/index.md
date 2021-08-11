@@ -1,7 +1,8 @@
 ---
 title: CLAIM&#8212;Classification Assessment Incorporating Uncertainty
-summary: An example of using the in-built project page.
-summary2: 2nd line
+summary2: HafenCity University Hamburg
+summary: Uncertainty Modeling // GIS Tool Development // Remote Sensing
+weight: 40
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

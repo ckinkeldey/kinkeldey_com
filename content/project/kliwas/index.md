@@ -1,7 +1,8 @@
 ---
 title: KLIWAS&#8212;Impact of climate change on waterways and navigation
-summary2: 2nd line
-summary: An example of linking directly to an external project website using "external_link".
+summary2: HafenCity University Hamburg
+summary: Uncertainty Modeling & Visualization // GIS Tool Development
+weight: 30
 tags:
 - Demo
 date: "2016-04-27T00:00:00Z"

@@ -1,7 +1,8 @@
 ---
 title: BitConduite&#8212;Visual Analytics of user behavior on the Bitcoin blockchain
-summary: Aviz, Inria, Paris-Saclay, France
-summary2: 2nd line
+summary: 2016-2018 // Aviz, Inria, Paris-Saclay, France
+summary2: Visual Analytics // Big Data // Machine Learning
+weight: 20
 tags:
 - Demo
 - Deep Learning

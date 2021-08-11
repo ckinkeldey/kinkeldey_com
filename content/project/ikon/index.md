@@ -1,7 +1,8 @@
 ---
 title: IKON&#8212;Visualizing the potential for knowledge transfer in research museums
-summary: 2019-2020 // Freie Universität Berlin
-summary2: 2nd line
+summary: 2019-2020 // Human-Centered Computing, Freie Universität Berlin
+summary2: Visual Analytics // Machine Learning // Uncertainty visualization
+weight: 10
 tags:
 - uncertaintyvis
 - ml
