@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Projects"
+title = "Selected Projects"
 subtitle = "Uncertainty visualization, visual analytics, machine learning"
 
 [content]
@@ -45,7 +45,7 @@ subtitle = "Uncertainty visualization, visual analytics, machine learning"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List

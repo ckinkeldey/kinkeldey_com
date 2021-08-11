@@ -11,5 +11,6 @@
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} itemprop="url">{{ $item.Title | markdownify | emojify }}</a>
   </span>
 
-  {{ with $item.Params.summary }}<p class="project-summary">{{ . | markdownify | emojify }}</p>{{ end }}
+  {{ with $item.Params.summary }}<p class="project-summary" style="font-style: italic;margin-bottom: 0px;">{{ . | markdownify | emojify }}</p>{{ end }}
+  {{ with $item.Params.summary2 }}<p class="project-summary">{{ . | markdownify | emojify }}</p>{{ end }}
 </div>
