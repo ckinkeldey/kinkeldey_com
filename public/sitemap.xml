@@ -33,7 +33,7 @@
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/</loc>
-    <lastmod>2021-08-08T18:42:28+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/talk/qualitative/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
@@ -48,7 +48,7 @@
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/authors/</loc>
-    <lastmod>2021-08-08T18:42:28+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/publication_types/</loc>
     <lastmod>2021-08-08T18:42:28+02:00</lastmod>
@@ -57,7 +57,7 @@
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/tags/</loc>
-    <lastmod>2021-08-08T18:42:28+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/post/jupyter/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
@@ -71,13 +71,13 @@
     <loc>https://kinkeldey.com/privacy/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
-    <loc>https://kinkeldey.com/project/artificial-intelligence/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+    <loc>https://kinkeldey.com/project/bitconduite/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kinkeldey.com/tags/coding/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/tags/deep-learning/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
-  </url><url>
-    <loc>https://kinkeldey.com/project/deep-learning/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/tags/demo/</loc>
@@ -89,29 +89,38 @@
     <loc>https://kinkeldey.com/tags/human/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
+    <loc>https://kinkeldey.com/project/ikon/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kinkeldey.com/project/internal-project/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
-    <loc>https://kinkeldey.com/project/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+    <loc>https://kinkeldey.com/tags/ml/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kinkeldey.com/project/robotics/</loc>
+    <loc>https://kinkeldey.com/project/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/tags/robotics/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
+    <loc>https://kinkeldey.com/project/robotics/</loc>
+    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+  </url><url>
     <loc>https://kinkeldey.com/project/skin-cancer-ai/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+  </url><url>
+    <loc>https://kinkeldey.com/tags/uncertaintyvis/</loc>
+    <lastmod>2021-08-08T18:42:28+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/post/snail/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/tags/academia/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
-    <loc>https://kinkeldey.com/post/getting-started/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+    <loc>https://kinkeldey.com/post/hcu/</loc>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/publication_types/2/</loc>
     <lastmod>2021-08-08T18:42:28+02:00</lastmod>
@@ -128,9 +137,6 @@
     <loc>https://kinkeldey.com/authors/jochen-schiewe/</loc>
     <lastmod>2021-08-08T18:42:28+02:00</lastmod>
   </url><url>
-    <loc>https://kinkeldey.com/tags/uncertaintyvis/</loc>
-    <lastmod>2021-08-08T18:42:28+02:00</lastmod>
-  </url><url>
     <loc>https://kinkeldey.com/publication_types/1/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
@@ -141,7 +147,7 @@
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/authors/admin/</loc>
-    <lastmod>2021-08-08T16:01:16+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/categories/</loc>
   </url><url>
@@ -149,7 +155,7 @@
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/post/</loc>
-    <lastmod>2021-08-06T16:47:03+02:00</lastmod>
+    <lastmod>2021-08-09T14:58:20+02:00</lastmod>
   </url><url>
     <loc>https://kinkeldey.com/publication/</loc>
     <lastmod>2021-08-06T16:47:03+02:00</lastmod>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coding on Dr.-Ing. Kinkeldey</title>
+    <link>https://kinkeldey.com/tags/coding/</link>
+    <description>Recent content in coding on Dr.-Ing. Kinkeldey</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://kinkeldey.com/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IKON&amp;#8212;Visualizing the potential for knowledge transfer in research museums</title>
+      <link>https://kinkeldey.com/project/ikon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/project/ikon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
