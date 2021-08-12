@@ -1,12 +1,13 @@
 ---
-title: "How to assess visual communication of uncertainty? A systematic review of geospatial uncertainty visualisation user studies"
+title: "BitConduite: Exploratory Visual Analysis of Entity Activity on the Bitcoin Network"
 authors:
-- (2014) *Christoph Kinkeldey*
-- Alan MacEachren
-- Jochen Schiewe
-date: "2015-09-01T00:00:00Z"
-doi: "https://doi.org/10.1179/1743277414Y.0000000099"
-weight: 40
+- (2021) *Christoph Kinkeldey*
+- Jean-Daniel Fekete
+- Tanja Blascheck
+- Petra Isenberg
+date: "2021-04-01T00:00:00Z"
+doi: "https://doi.org/10.1109/MCG.2021.3070303"
+weight: 10
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
 
@@ -17,19 +18,19 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Cartographic Journal, 51(4)*"
-publication_short: "CAJ"
+publication: "*IEEE Computer Graphics and Applications*"
+publication_short: "CG&A"
 
-abstract: For decades, uncertainty visualisation has attracted attention in disciplines such as cartography and geographic visualisation, scientific visualisation and information visualisation. Most of this research deals with the development of new approaches to depict uncertainty visually; only a small part is concerned with empirical evaluation of such techniques. This systematic review aims to summarize past user studies and describe their characteristics and findings, focusing on the field of geographic visualisation and cartography and thus on displays containing geospatial uncertainty. From a discussion of the main findings, we derive lessons learned and recommendations for future evaluation in the field of uncertainty visualisation. We highlight the importance of user tasks for successful solutions and recommend moving towards task-centered typologies to support systematic evaluation in the field of uncertainty visualisation.
+abstract: "We present BitConduite, a visual analytics approach for explorative analysis of financial activity within the Bitcoin network, offering a view on transactions aggregated by entities, i.e. by individuals, companies or other groups actively using Bitcoin. BitConduite makes Bitcoin data accessible to non-technical experts through a guided workflow around entities analyzed according to several activity metrics. Analyses can be conducted at different scales, from large groups of entities down to single entities. BitConduite also enables analysts to cluster entities to identify groups of similar activities as well as to explore characteristics and temporal patterns of transactions. To assess the value of our approach, we collected feedback from domain experts."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Uncertainty visualization
-- Systematic review
-- Evaluation
-- Usability
+- Visual analytics
+- Big data
+- Machine learning
+- Workshop
 featured: false
 
 # links:

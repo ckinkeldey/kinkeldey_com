@@ -1,12 +1,14 @@
 ---
-title: "How to assess visual communication of uncertainty? A systematic review of geospatial uncertainty visualisation user studies"
+title: "Evaluating the impact of visualization of risk upon emergency route-planning"
 authors:
-- (2014) *Christoph Kinkeldey*
-- Alan MacEachren
-- Jochen Schiewe
-date: "2015-09-01T00:00:00Z"
-doi: "https://doi.org/10.1179/1743277414Y.0000000099"
-weight: 40
+- (2020) Lisa Cheong
+- "*Christoph Kinkeldey*"
+- Ingrid Burfurd
+- Susanne Bleisch
+- Matt Duckham
+date: "2020-05-01T00:00:00Z"
+doi: "https://doi.org/10.1080/13658816.2019.1701677"
+weight: 20
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
 
@@ -17,19 +19,19 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Cartographic Journal, 51(4)*"
-publication_short: "CAJ"
+publication: "*International Journal of Geographical Information Science, 34(5)*"
+publication_short: "IJGIS"
 
-abstract: For decades, uncertainty visualisation has attracted attention in disciplines such as cartography and geographic visualisation, scientific visualisation and information visualisation. Most of this research deals with the development of new approaches to depict uncertainty visually; only a small part is concerned with empirical evaluation of such techniques. This systematic review aims to summarize past user studies and describe their characteristics and findings, focusing on the field of geographic visualisation and cartography and thus on displays containing geospatial uncertainty. From a discussion of the main findings, we derive lessons learned and recommendations for future evaluation in the field of uncertainty visualisation. We highlight the importance of user tasks for successful solutions and recommend moving towards task-centered typologies to support systematic evaluation in the field of uncertainty visualisation.
+abstract: "This paper reports on a controlled experiment evaluating how different cartographic representations of risk affect participants’ performance on a complex spatial decision task: route planning. The specific experimental scenario used is oriented towards emergency route-planning during flood response. The experiment compared six common abstract and metaphorical graphical symbolizations of risk. The results indicate a pattern of less-preferred graphical symbolizations associated with slower responses and lower-risk route choices. One mechanism that might explain these observed relationships would be that more complex and effortful maps promote closer attention paid by participants and lower levels of risk taking. Such user considerations have important implications for the design of maps and mapping interfaces for emergency planning and response. The data also highlights the importance of the ‘right decision, wrong outcome problem’ inherent in decision-making under uncertainty: in individual instances, more risky decisions do not always lead to worse outcomes."
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
 - Uncertainty visualization
-- Systematic review
-- Evaluation
-- Usability
+- Decision making
+- Risk assessment
+- Lab experiment
 featured: false
 
 # links:

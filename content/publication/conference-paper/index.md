@@ -1,13 +1,14 @@
 ---
-title: "An example conference paper"
+title: "Towards Supporting Interpretability of Clustering Results with Uncertainty Visualization"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
-
+- (2019) *Christoph Kinkeldey*
+- Tim Korjakow
+- Jesse Josua Benjamin
+date: "2019-06-01T00:00:00Z"
+doi: "https://doi.org/10.2312/trvis.20191183"
+weight: 30
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +17,18 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *EuroVis Workshop on Trustworthy Visualization (TrustVis) 2019*
+publication_short: TrustVis
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Interpretation of machine learning results is a major challenge for non-technical experts, with visualization being a common approach to support this process. For instance, interpretation of clustering results is usually based on scatterplots that provide information about cluster characteristics implicitly through the relative location of objects. However, the locations and distances tend to be distorted because of artifacts stemming from dimensionality reduction. This makes interpretation of clusters difficult and may lead to distrust in the system. Most existing approaches that counter this drawback explain the distances in the scatterplot (e.g., error visualization) to foster the interpretability of implicit information. Instead, we suggest explicit visualization of the uncertainty related to the information needed for interpretation, specifically the uncertain membership of each object to its cluster. In our approach, we place objects on a grid, and add a continuous ''topography'' in the background, expressing the distribution of uncertainty over all clusters. We motivate our approach from a use case in which we visualize research projects, clustered by topics extracted from scientific abstracts. We hypothesize that uncertainty visualization can increase trust in the system, which we specify as an emergent property of interaction with an interpretable system. We present a first prototype and outline possible procedures for evaluating if and how the uncertainty visualization approach affects interpretability and trust.  
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Uncertainty visualization
+- Clustering
+- Machine learning interpretability
 featured: true
 
 links:
@@ -41,7 +44,7 @@ links:
 # url_video: '#'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
@@ -70,6 +73,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% alert note %}}
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
