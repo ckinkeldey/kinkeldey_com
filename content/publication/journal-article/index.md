@@ -5,7 +5,7 @@ authors:
 - Alan MacEachren
 - Jochen Schiewe
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1179/1743277414Y.0000000099"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,10 +17,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*The Cartographic Journal, 51(4)*"
+publication_short: "CAJ"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: For decades, uncertainty visualisation has attracted attention in disciplines such as cartography and geographic visualisation, scientific visualisation and information visualisation. Most of this research deals with the development of new approaches to depict uncertainty visually; only a small part is concerned with empirical evaluation of such techniques. This systematic review aims to summarize past user studies and describe their characteristics and findings, focusing on the field of geographic visualisation and cartography and thus on displays containing geospatial uncertainty. From a discussion of the main findings, we derive lessons learned and recommendations for future evaluation in the field of uncertainty visualisation. We highlight the importance of user tasks for successful solutions and recommend moving towards task-centered typologies to support systematic evaluation in the field of uncertainty visualisation.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -44,7 +44,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption:
   focal_point: ""
   preview_only: false
 
@@ -70,5 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% alert note %}}
 Click the *Slides* button above to demo academia's Markdown slides feature.
 {{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Notes

@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Publications"
-subtitle = "Some of my most relevant publications."
+title = "Selected Publications"
+subtitle = "(Find a complete list in my CV)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
