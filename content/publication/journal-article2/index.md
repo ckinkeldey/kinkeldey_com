@@ -28,10 +28,10 @@ abstract: "This paper reports on a controlled experiment evaluating how differen
 summary:
 
 tags:
-- Uncertainty visualization
-- Decision making
-- Risk assessment
-- Lab experiment
+- Uncertainty Visualization
+- Decision Making
+- Risk Assessment
+- Lab Experiment
 featured: false
 
 # links:

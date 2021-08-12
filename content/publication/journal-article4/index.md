@@ -26,8 +26,8 @@ abstract: For decades, uncertainty visualisation has attracted attention in disc
 summary:
 
 tags:
-- Uncertainty visualization
-- Systematic review
+- Uncertainty Visualization
+- Systematic Review
 - Evaluation
 - Usability
 featured: false

@@ -27,9 +27,9 @@ abstract: "Noise annotation lines are a promising technique to visualize themati
 summary:
 
 tags:
-- Uncertainty visualization
-- Visualization technique
-- Online experiment
+- Uncertainty Visualization
+- Visualization Technique
+- Online Experiment
 featured: false
 
 # links:

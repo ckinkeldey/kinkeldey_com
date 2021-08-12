@@ -27,9 +27,9 @@ abstract: "We present BitConduite, a visual analytics approach for explorative a
 summary:
 
 tags:
-- Visual analytics
-- Big data
-- Machine learning
+- Visual Analytics
+- Big Data
+- Machine Learning
 - Workshop
 featured: false
 

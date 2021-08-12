@@ -26,9 +26,9 @@ abstract: Interpretation of machine learning results is a major challenge for no
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Uncertainty visualization
+- Uncertainty Visualization
 - Clustering
-- Machine learning interpretability
+- Machine Learning Interpretability
 featured: true
 
 links:
