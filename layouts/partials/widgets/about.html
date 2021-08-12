@@ -16,7 +16,7 @@
 {{ $person := $person_page.Params }}
 
 <!-- About widget -->
-<div class="row justify-content-center" itemprop="author" itemscope itemtype="http://schema.org/Person"
+<div class="row justify-content-left" itemprop="author" itemscope itemtype="http://schema.org/Person"
   itemref="{{ if site.Params.email }}person-email{{ end }}{{ if site.Params.phone }} person-telephone{{ end }}{{ if site.Params.address}} person-address{{ end }}">
   <!-- <div class="col-lg-5">
     <div id="profile">
@@ -51,7 +51,7 @@
       {{ end }}
     </ul>
   </div> -->
-  <div class="col-12 section-heading text-center" style="margin-bottom: 0px;">
+  <div class="col-12 section-heading text-left" style="margin-bottom: 0px;">
     <h1>About Me</h1>
     <!-- <p>Subtitle</p> -->
   </div>

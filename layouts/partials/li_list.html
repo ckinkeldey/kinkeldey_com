@@ -18,12 +18,12 @@
   {{ $show_buttons = true }}
 {{ end }}
 
-<div class="view-list-item col-lg-8 mx-auto" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+<div class="view-list-item col-lg-8" itemscope itemtype="http://schema.org/{{$microdata_type}}">
   <i class="far {{$icon}} pub-icon" aria-hidden="true"></i>
   <a href="{{ $item.RelPermalink }}" itemprop="url"><span itemprop="name">{{ $item.Title }}</span></a>
 
   {{ if eq $item.Type "talk" }}
-  <div class="article-metadata">
+  <div class="article-metadata" style="font_size: 0.8rem;color: #000000;">
     <span itemprop="startDate">
       {{ $date := $item.Date }}
       {{ (time $date).Format site.Params.date_format }}
