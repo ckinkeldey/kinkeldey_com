@@ -1,20 +1,50 @@
-{{ $st := .page }}
-{{ $columns := $st.Params.design.columns | default "2" }}
-
 <div class="row">
-  {{ if ne $columns "1" }}
-    <div class="col-12 section-heading text-center">
-      {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
-      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+  <div class="col-12 section-heading text-center">
+    <h1>Teaching</h1>
+    <p>(For a full list, refer to my CV)</p>
+  </div>
+  <div class="col-12">
+    <div class="row justify-content-center">
+      <div class="col-lg-12" style="margin-bottom: .5rem;" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <i class="fas fa-chalkboard pub-icon" aria-hidden="true"></i>
+        <span class="project-title">
+          <a href="" target="_blank" rel="noopener" itemprop="url">Geodata analysis (BSc), geodata management (BSc)</a>
+        </span>
+        <p class="project-summary" style="font-style: oblique;margin-bottom: 0px;">2020-2021 // HafenCity University Hamburg</p>
+        <p class="project-summary" style="font-style: oblique;">Concept, lecture, QGIS tutorial (online course)</p>
+      </div>
+      <div class="col-lg-12" style="margin-bottom: .5rem;" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <i class="fas fa-chalkboard pub-icon" aria-hidden="true"></i>
+        <span class="project-title">
+          <a href="" target="_blank" rel="noopener" itemprop="url">Data visualization (MSc)</a>
+        </span>
+        <p class="project-summary" style="font-style: oblique;margin-bottom: 0px;">2019-2020 // Cluster of Excellence "Matters of Activity", Freie Universität Berlin</p>
+        <p class="project-summary" style="font-style: oblique;">Concept, lecture, QGIS tutorial (online block course, workshop)</p>
+      </div>
+      <div class="col-lg-12" style="margin-bottom: .5rem;" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <i class="fas fa-chalkboard pub-icon" aria-hidden="true"></i>
+        <span class="project-title">
+          <a href="" target="_blank" rel="noopener" itemprop="url">Visual Analytics (MSc)</a>
+        </span>
+        <p class="project-summary" style="font-style: oblique;margin-bottom: 0px;">2017-2018 // École Centrale Paris (ECP)</p>
+        <p class="project-summary" style="font-style: oblique;">Guest lecture & tutorial</p>
+      </div>
+      <div class="col-lg-12" style="margin-bottom: .5rem;" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <i class="fas fa-chalkboard pub-icon" aria-hidden="true"></i>
+        <span class="project-title">
+          <a href="" target="_blank" rel="noopener" itemprop="url">Software Technology (BSc)</a>
+        </span>
+        <p class="project-summary" style="font-style: oblique;margin-bottom: 0px;">2014-2015 // HafenCity University Hamburg</p>
+        <p class="project-summary" style="font-style: oblique;">Concept, lecture, tutorial</p>
+      </div>
+      <div class="col-lg-12" style="margin-bottom: .5rem;" itemscope="" itemtype="http://schema.org/CreativeWork">
+        <i class="fas fa-chalkboard pub-icon" aria-hidden="true"></i>
+        <span class="project-title">
+          <a href="" target="_blank" rel="noopener" itemprop="url">GIS programming (ERASMUS)</a>
+        </span>
+        <p class="project-summary" style="font-style: oblique;margin-bottom: 0px;">March 2014 // Universidad Politécnica de Madrid (UPM)</p>
+        <p class="project-summary" style="font-style: oblique;">Concept, lecture, tutorial (block course)</p>
+      </div>
     </div>
-    <div class="col-12">
-      {{ $st.Content }}
-    </div>
-  {{ else }}
-    <div class="col-12">
-      {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
-      {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-      {{ $st.Content }}
-    </div>
-  {{ end }}
+  </div>
 </div>

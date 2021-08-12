@@ -86,6 +86,6 @@ I am passionate about research, teaching, and software development in the field 
 * Geodata analysis and Geographic Information Systems (GIS)
 * Software development
 
-#### Development
+#### Software Development
 * Frontend (Javascript, D3.js)
 * Backend (Python)

@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Selected Publications"
-subtitle = "(Find a complete list in my CV)"
+subtitle = "(For a full list, refer to my CV)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

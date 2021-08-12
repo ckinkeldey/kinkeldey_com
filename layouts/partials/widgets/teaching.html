@@ -1,20 +1,13 @@
-{{ $st := .page }}
-{{ $count := 0 }}
-{{ $items_count := 0 }}
 <div class="row">
   <div class="col-12 section-heading text-center">
-    <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-    {{ with $st.Content }}<p>{{ . }}</p>{{ end }}
+    <h1>Teaching</h1>
+    <p>My teaching experience</p>
   </div>
   <div class="col-12">
     <div class="row justify-content-center">
-      {{ if gt $count $items_count }}
       <div class="see-all">
-      
+        Data vis
       </div>
-      {{ end }}
-
     </div>
   </div>
 </div>

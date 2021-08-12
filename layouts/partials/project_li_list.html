@@ -5,7 +5,8 @@
 {{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 
 <div class="col-lg-12 project-item isotope-item {{ $js_tag_classes | safeHTMLAttr }}" style="margin-bottom: .5rem;" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="far fa-copy pub-icon" aria-hidden="true"></i>
+    <i class="fas fa-project-diagram pub-icon" aria-hidden="true"></i>
+  <!-- <i class="far fa-copy pub-icon" aria-hidden="true"></i> -->
 
   <span class="project-title">
     <a href="{{ $link }}" {{ $target | safeHTMLAttr }} itemprop="url">{{ $item.Title | markdownify | emojify }}</a>
