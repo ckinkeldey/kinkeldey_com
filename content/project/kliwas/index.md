@@ -1,7 +1,7 @@
 ---
 title: KLIWAS&#8212;Impact of climate change on waterways and navigation
 summary2: HafenCity University Hamburg
-summary: Uncertainty Modeling & Visualization // GIS Tool Development
+summary: 2011-2013 // Uncertainty Modeling & Visualization // GIS Tool Development
 weight: 30
 tags:
 - Demo

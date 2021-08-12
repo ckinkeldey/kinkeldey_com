@@ -1,6 +1,6 @@
 ---
 title: CLAIM&#8212;Classification Assessment Incorporating Uncertainty
-summary2: HafenCity University Hamburg
+summary2: 2008-2011 // HafenCity University Hamburg
 summary: Uncertainty Modeling // GIS Tool Development // Remote Sensing
 weight: 40
 tags:
