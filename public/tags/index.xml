@@ -1,23 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Dr.-Ing. Kinkeldey</title>
+    <title>Tags on Dr.-Ing. Christoph Kinkeldey</title>
     <link>https://kinkeldey.com/tags/</link>
-    <description>Recent content in Tags on Dr.-Ing. Kinkeldey</description>
+    <description>Recent content in Tags on Dr.-Ing. Christoph Kinkeldey</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://kinkeldey.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Source Themes</title>
-      <link>https://kinkeldey.com/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Big data</title>
+      <link>https://kinkeldey.com/tags/big-data/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kinkeldey.com/tags/source-themes/</guid>
+      <guid>https://kinkeldey.com/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning</title>
+      <link>https://kinkeldey.com/tags/machine-learning/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual analytics</title>
+      <link>https://kinkeldey.com/tags/visual-analytics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/visual-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://kinkeldey.com/tags/workshop/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision making</title>
+      <link>https://kinkeldey.com/tags/decision-making/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/decision-making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab experiment</title>
+      <link>https://kinkeldey.com/tags/lab-experiment/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/lab-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk assessment</title>
+      <link>https://kinkeldey.com/tags/risk-assessment/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/risk-assessment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty visualization</title>
+      <link>https://kinkeldey.com/tags/uncertainty-visualization/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/uncertainty-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering</title>
+      <link>https://kinkeldey.com/tags/clustering/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine learning interpretability</title>
+      <link>https://kinkeldey.com/tags/machine-learning-interpretability/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/machine-learning-interpretability/</guid>
       <description></description>
     </item>
     
@@ -72,6 +153,51 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://kinkeldey.com/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation</title>
+      <link>https://kinkeldey.com/tags/evaluation/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic review</title>
+      <link>https://kinkeldey.com/tags/systematic-review/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/systematic-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usability</title>
+      <link>https://kinkeldey.com/tags/usability/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/usability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online experiment</title>
+      <link>https://kinkeldey.com/tags/online-experiment/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/online-experiment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization technique</title>
+      <link>https://kinkeldey.com/tags/visualization-technique/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/tags/visualization-technique/</guid>
       <description></description>
     </item>
     

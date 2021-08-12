@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning on Dr.-Ing. Kinkeldey</title>
+    <title>Deep Learning on Dr.-Ing. Christoph Kinkeldey</title>
     <link>https://kinkeldey.com/tags/deep-learning/</link>
-    <description>Recent content in Deep Learning on Dr.-Ing. Kinkeldey</description>
+    <description>Recent content in Deep Learning on Dr.-Ing. Christoph Kinkeldey</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
@@ -18,6 +18,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://kinkeldey.com/project/bitconduite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDM&amp;#8212;Spatial decision making under risk</title>
+      <link>https://kinkeldey.com/project/sdm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kinkeldey.com/project/sdm/</guid>
       <description></description>
     </item>
     

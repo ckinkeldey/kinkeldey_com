@@ -1,13 +1,12 @@
 ---
-title: "Evaluation of noise annotation lines: using noise to represent thematic uncertainty in maps"
+title: "How to assess visual communication of uncertainty? A systematic review of geospatial uncertainty visualisation user studies"
 authors:
 - (2014) *Christoph Kinkeldey*
-- Jennifer Mason
-- Alexander Klippel
+- Alan MacEachren
 - Jochen Schiewe
-date: "2014-10-01T00:00:00Z"
-doi: "https://doi.org/10.1109/MCG.2021.3070303"
-weight: 35
+date: "2015-09-01T00:00:00Z"
+doi: "https://doi.org/10.1179/1743277414Y.0000000099"
+weight: 40
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
 
@@ -18,18 +17,19 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cartography and Geographic Information Science 41(5)*"
-publication_short: "CaGIS"
+publication: "*The Cartographic Journal, 51(4)*"
+publication_short: "CAJ"
 
-abstract: "Noise annotation lines are a promising technique to visualize thematic uncertainty in maps. However, their potential has not yet been evaluated in user studies. In two experiments, we assessed the usability of this technique with respect to a different number of uncertainty levels as well as the influence of two design aspects of noise annotation lines: the grain and the width of the noise grid. We conducted a web-based study utilizing a qualitative comparison of 2 areas in 150 different maps. We recruited participants from Amazon Mechanical Turk with the majority being nonexperts with respect to the use of maps. Our findings suggest that for qualitative comparisons of “constant uncertainty” (i.e., constant uncertainty per area) in thematic maps, noise annotation lines can be used for up to six uncertainty levels. During comparison of four, six, and eight levels, the different designs of the technique yielded significantly different accuracies. We propose to use the “large noise width, coarse grain” design that was most successful. For “mixed uncertainty” (i.e., uncertainty is not constant per area) we observed a significant decrease in accuracy, but for four levels the technique can still be recommended. This article is a follow-up to our conference paper reporting on preliminary results of the first of the two experiments."
+abstract: For decades, uncertainty visualisation has attracted attention in disciplines such as cartography and geographic visualisation, scientific visualisation and information visualisation. Most of this research deals with the development of new approaches to depict uncertainty visually; only a small part is concerned with empirical evaluation of such techniques. This systematic review aims to summarize past user studies and describe their characteristics and findings, focusing on the field of geographic visualisation and cartography and thus on displays containing geospatial uncertainty. From a discussion of the main findings, we derive lessons learned and recommendations for future evaluation in the field of uncertainty visualisation. We highlight the importance of user tasks for successful solutions and recommend moving towards task-centered typologies to support systematic evaluation in the field of uncertainty visualisation.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
 - Uncertainty visualization
-- Visualization technique
-- Online experiment
+- Systematic review
+- Evaluation
+- Usability
 featured: false
 
 # links:
