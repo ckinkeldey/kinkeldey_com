@@ -616,7 +616,7 @@ div.alert a {
       content: '';
       position: absolute;
       z-index: 99;
-      background-color: $sta-primary;
+      //background-color: $sta-primary;
       width: 6px;
       height: 6px;
       border-radius: 100%;
@@ -627,7 +627,7 @@ div.alert a {
     content: '';
     position: absolute;
     z-index: 99;
-    background-color: $sta-primary;
+    //background-color: $sta-primary;
     width: 6px;
     height: 6px;
     border-radius: 100%;
