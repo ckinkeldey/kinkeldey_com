@@ -43,6 +43,10 @@ hero_media = "user-2.jpg"
   icon_pack="fab"
   link="https://twitter.com/geovisual"
   [[social]]
+  icon="linkedin"
+  icon_pack="fab"
+  link="https://de.linkedin.com/in/christoph-kinkeldey-a858b0a0"
+  [[social]]
   icon="google-scholar"
   icon_pack="ai"
   link="https://scholar.google.co.uk/citations?user=eP9T1cYAAAAJ"
