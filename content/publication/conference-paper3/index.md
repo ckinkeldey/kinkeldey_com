@@ -33,8 +33,9 @@ featured: true
 
 links:
 #- name: Custom Link
-#  url: http://example.org
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url: https://example.org
+url_pdf: 'https://diglib.eg.org/bitstream/handle/10.2312/trvis20191183/001-005.pdf'
+# url_cite: 'https://diglib.eg.org/bitstream/handle/10.2312/trvis20191183/001-005.pdf'
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

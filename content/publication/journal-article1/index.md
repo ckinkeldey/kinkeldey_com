@@ -40,10 +40,10 @@ featured: false
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
-# url_project: ''
+url_project: 'https://aviz.fr/Research/BitConduite'
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+# url_video: 'https://vimeo.com/317687395'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

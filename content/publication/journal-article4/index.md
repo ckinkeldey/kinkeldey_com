@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.tandfonline.com/doi/pdf/10.1179/1743277414Y.0000000099
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
